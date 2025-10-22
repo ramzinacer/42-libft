@@ -1,0 +1,41 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.a
+*.la
+*.lo
+
+# Shared objects
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+test
+a.out
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Test files
+main.c
+tester/
